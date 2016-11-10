@@ -1,8 +1,8 @@
 ## Download the package shell script
 
-[kintone/plugin\-sdk](https://github.com/kintone/plugin-sdk)
+- [kintone/plugin\-sdk](https://github.com/kintone/plugin-sdk)
 
-## build plugin file
+## Build Plugin File
 
 ```
 ./package.sh ../hello-world
