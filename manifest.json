@@ -1,0 +1,28 @@
+{
+    "manifest_version": 1,
+    "version": 1,
+    "type": "APP",
+    "name": { 
+        "ja": "Hello World",
+        "en": "Hello World"
+    },
+    "description": { 
+        "ja": "これは、サンプルです",
+        "en": "This is sample."
+    },
+    "icon": "image/icon.png",
+    "homepage_url": { 
+        "ja": "https://h2o-space.com",
+        "en": "https://h2o-space.com"
+    },
+    "desktop": {
+        "js": [
+            "https://code.jquery.com/jquery-3.1.1.min.js",
+            "js/hello.js"
+        ],
+        "css": [
+            "css/51-current-default.css",
+            "css/plugin.css"
+        ]
+    }
+}
